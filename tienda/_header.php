@@ -22,7 +22,7 @@ $mysqli->set_charset("utf8");
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta name="description" content="">
     <meta name="author" content="">
-    <title>Ejemplo WEB</title>
+    <title>Joyeria</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

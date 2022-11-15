@@ -1,11 +1,25 @@
-
 .card-img-top {
-    width: 100%;
-    object-fit: contain;
+  width: 100%;
+  object-fit: contain;
+}
+
+.card {
+    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+a {
+  color: grey;
+}
+a:hover {
+  color: #daa520;
 }
 
 @media (min-width: 768px) {
-	.card-img-top {
-		height: 20vw;
-	}
+  .card-img-top {
+    height: 20vw;
+  }
 }

@@ -72,7 +72,7 @@
 				  </div>
 				  
 				  <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-						<div class="text-center"><a class="btn btn-outline-dark mt-auto" href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=ismaelkm%40hotmail%2ecom&lc=ES&item_name=<?php echo $row_prod['nombre']; ?>&amount=<?php echo $row_prod['precio']; ?>&currency_code=EUR&button_subtype=services&no_note=0&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest" target="_blank">Comprar</a></div>
+						<div class="text-center"><a class="btn btn-outline-dark mt-auto" href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sandra%40hotmail%2ecom&lc=ES&item_name=<?php echo $row_prod['nombre']; ?>&amount=<?php echo $row_prod['precio']; ?>&currency_code=EUR&button_subtype=services&no_note=0&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest" target="_blank">Comprar</a></div>
 					</div>
 
 				</div>
